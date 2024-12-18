@@ -8,8 +8,9 @@
 
 相关事项  
 本字体依据SIL Open Font License 1.1授权协议而免费公开，允许个人或企业自由传播、分享，免费商用；允许自由修改，修改后须以SIL Open Font License 1.1授权公开。  
-特别感谢原作思源黑体Heavy与零ゴシック.   
-https://www.bilibili.com/read/cv39812221/?jump_opus=1 出处：bilibili
+特别感谢原作思源黑体Heavy与零ゴシック.  
+https://www.bilibili.com/opus/1012287125551316997 出处：bilibili  
+https://www.bilibili.com/read/cv39812221/?jump_opus=1 出处：bilibili  
 
 ## 版本更新
 2024.12.14, ver 2.0  

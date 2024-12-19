@@ -37,7 +37,5 @@ https://www.bilibili.com/read/cv39812221/?jump_opus=1 出处：bilibili
 ![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/5.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/1.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/214008.png)  
-![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/b20.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/d6.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/fd80.png)  
-![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/8d10.png)  

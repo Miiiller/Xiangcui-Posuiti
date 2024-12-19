@@ -22,7 +22,22 @@ https://www.bilibili.com/read/cv39812221/?jump_opus=1 出处：bilibili
 4.调整了中文冒号和分号的位置。  
 
 2024.11.16, ver 1.0  
-发布香萃零度黑1.0版本。
+发布香萃零度黑1.0版本。  
 
+## 效果展示  
 
-
+（下面都是图片，没文字了）  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/1.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/13.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/14.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/4.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/6.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/7.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/12.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/5.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/1.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/214008.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/b20.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/d6.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/fd80.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main/pictures/8d10.png)  
